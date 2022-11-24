@@ -7,3 +7,12 @@ header {
     border: 1px dashed greenyellow;
     min-height: 50px;
 }
+
+#start {
+    border: 1px solid purple;
+    min-height: 500px;
+}
+
+#start [class^="container"] {
+    border: 1px dashed green;
+}
