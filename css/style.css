@@ -8,11 +8,16 @@ header {
     min-height: 50px;
 }
 
-#start {
-    border: 1px solid purple;
+section {
+    border: 2px dashed orange;
     min-height: 500px;
 }
 
 #start [class^="container"] {
     border: 1px dashed green;
+}
+
+[class^="col"] {
+    border: 1px solid dodgerblue;
+    min-height: 50px;
 }
