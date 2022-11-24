@@ -3,18 +3,17 @@ header {
     background-color: #2C3E50;
 }
 
-.col-6 {
-    border: 1px dashed greenyellow;
-    min-height: 50px;
-}
-
 section {
     border: 2px dashed orange;
     min-height: 500px;
 }
 
+#start {
+    background-color: #1ABC9C;
+}
+
 #start [class^="container"] {
-    border: 1px dashed green;
+    border: 1px dashed green; 
 }
 
 [class^="col"] {
