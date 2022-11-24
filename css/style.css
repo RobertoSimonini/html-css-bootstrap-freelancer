@@ -3,7 +3,7 @@ header {
     background-color: #2C3E50;
 }
 
-.col-12 {
+.col-6 {
     border: 1px dashed greenyellow;
     min-height: 50px;
 }
