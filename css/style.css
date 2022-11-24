@@ -26,6 +26,11 @@ img {
     max-width: 100%;
 }
 
+footer {
+    min-height: 75px;
+    background-color: rgb(44,62,80);
+}
+
 /* Utils  */
 
 .h-250 {
