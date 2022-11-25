@@ -1,7 +1,8 @@
 
 section {
-    border: 2px dashed orange;
-    min-height: 500px;
+    /* border: 2px dashed orange; */
+    min-height: 250px;
+    padding: 75px 0;
 }
 
 /* Section bg-color  */
@@ -10,6 +11,9 @@ section {
     background-color: #1ABC9C;
 }
 
+#location {
+    background-color: #3A546D;
+}
 
 /* #start [class^="container"] {
     border: 1px dashed green; 
@@ -31,6 +35,22 @@ footer {
 
 /* Utils  */
 
+.btn-success {
+    background-color: #1ABC9C;
+    border: none;
+}
+
 .h-250 {
     height: 250px;
+}
+
+
+.contact-me input, .contact-me textarea {
+    border-width: 0 0 1px 0;
+    border-radius: 0;
+    color: #000;
+}
+
+[class^="bi"] {
+    font-size: 30px;
 }
